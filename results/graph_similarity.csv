@@ -1,0 +1,5 @@
+spectral_distance,degree_sequence_correlation,structural_similarity_score,domain,comparison
+0,0,0,GossipCop,Fake vs Real
+0,0,0,PolitiFact,Fake vs Real
+0,0,0,Cross-Domain,Fake: GossipCop vs PolitiFact
+0,0,0,Cross-Domain,Real: GossipCop vs PolitiFact
